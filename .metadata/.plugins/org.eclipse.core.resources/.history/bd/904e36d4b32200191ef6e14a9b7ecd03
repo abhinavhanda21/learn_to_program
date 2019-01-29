@@ -1,0 +1,17 @@
+package object;
+
+public class profile {
+	String name;
+	char gender;
+	String email;
+	String message;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	profile uRef = new profile();
+	
+		
+		
+	}
+
+}
